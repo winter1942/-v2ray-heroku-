@@ -17,6 +17,6 @@
         }
     },
     "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/winter1942/v2ray-heroku",
+    "repository": "https://github.com/winter1942/demo",
     "stack": "container"
 }
